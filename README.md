@@ -9,27 +9,27 @@ My background spans manufacturing, quality assurance, engineering research, and 
 
 ## Allsaat product portfolio
 
-### Proofan — AI governance and compliance evidence
+### [Proofan](https://github.com/Farhadm2010/Proofan) — AI governance and compliance evidence
 
-An AI compliance and evidence platform covering AI-system inventory, evidence sufficiency, findings, risk and remediation, human review, provenance, and audit history.
+An AI governance and compliance-evidence platform covering AI-system inventory, evidence review and sufficiency checks, findings, human review, provenance, and audit history.
 
 **My contribution:** Product direction, evidence and review workflows, and advisory mapping to NIST AI RMF and EU AI Act concepts. These mappings support governance work and do not constitute legal certification.
 
-### Kahreez — Enterprise AI transformation
+### [Kahreez](https://github.com/Farhadm2010/Kahreez) — Enterprise AI transformation
 
-An enterprise transformation and deployment-planning platform covering discovery, process mapping, root-cause analysis, AI versus non-AI intervention selection, prioritization, ROI, evaluation, and adoption planning.
+An enterprise AI transformation framework and product design covering discovery, process mapping, root-cause analysis, AI versus non-AI intervention selection, use-case prioritization, ROI assessment, evaluation, and adoption planning.
 
 **My contribution:** Defining the transformation approach, business decision workflows, and criteria for choosing practical interventions across industry contexts.
 
-### ApplyTrust — AI-assisted job application workflows
+### [ApplyTrust](https://github.com/Farhadm2010/ApplyTrust) — AI-assisted job application workflows
 
-A Chrome extension combining career profiles, resume selection, job intake, application queues, and reviewable Role Impact Briefs.
+A Chrome extension combining career profiles, resume selection, job intake, application queues, and human-reviewed Role Impact Briefs. Career data is stored locally in the browser; optional AI assistance sends only selected, sanitized task inputs to the configured provider, and review before submit is the default.
 
 **My contribution:** Product planning, workflow design, AI-assisted development coordination, and iterative validation. Product controls include optional AI assistance, structured-output checks, privacy boundaries, human approval gates, and action receipts.
 
-### CRCIHealth — Evidence-centered investigation and decision support
+### [CRCIHealth](https://github.com/Farhadm2010/CRCIHealth) — Evidence-centered investigation and decision support
 
-A healthcare investigation and decision-support system organized around evidence, structured analysis, and human decision boundaries.
+A healthcare investigation and decision-support system organized around evidence, structured analysis, and human decision boundaries. Version 1 is manual and rule-based, with no AI features, and it does not diagnose or recommend treatment. No clinical-validation claim is made.
 
 **My contribution:** Product requirements, evidence-centered investigation workflows, and review-oriented decision-support design.
 
@@ -74,11 +74,6 @@ Based in Taiwan and open to relocation to Germany, Sweden, Ireland, the Netherla
 - [LinkedIn](https://www.linkedin.com/in/farhad-m-35a70535/)
 - [Allsaat](https://allsaat.com)
 - [GitHub](https://github.com/Farhadm2010)
-
-
-## 📫 Connect
-
-- GitHub: [Farhadm2010](https://github.com/Farhadm2010)
 
 ---
 
